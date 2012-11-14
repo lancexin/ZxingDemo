@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="decode" type="id">false</item>
+    <item name="quit" type="id">false</item>
+    <item name="decode_succeeded" type="id">false</item>
+    <item name="auto_focus" type="id">false</item>
+    <item name="restart_preview" type="id">false</item>
+    <item name="decode_failed" type="id">false</item>
+    <item name="return_scan_result" type="id">false</item>
+    <item name="launch_product_query" type="id">false</item>
+    <item name="viewfinder_view" type="id">false</item>
+    <item name="txtResult" type="id">false</item>
+    <item name="preview_view" type="id">false</item>
+
+
+</resources>
